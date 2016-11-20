@@ -1,0 +1,2 @@
+http://api.map.baidu.com/广州/v2/suggestion/EcdbT6igu0rAYXFcmCO1s1H8n0Lm6q2V	
+http://api.map.baidu.com/place/v2/suggestion?query=广州&region=131&output=json&ak=EcdbT6igu0rAYXFcmCO1s1H8n0Lm6q2V	
